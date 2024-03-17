@@ -55,7 +55,7 @@ class UserApiController extends Controller
     public function __construct()
     {
         // Set the value for the global variable in the constructor
-        $this->firebase_key = 'AAAAgBMZwnU:APA91bF1EILinM6hhLvKg5NG17KIxPnttRDYcwFHLEmFYN-NInCsgTmdhWOmxFfLtZXJNWh4KfsmWbF1FifBxIBkD266ZdJG6OQmu_KesySbpvQEVwhbjAIncgmrGX1NGv9yjHcamfmJ';
+        $this->firebase_key = '';
     }
 
 
